@@ -3,5 +3,6 @@ disp_lidar.py: Collects the data from the
     lidar serial stream for 10 seconds and
     then displays a map
 
+This is a test change
 
 License: MIT
